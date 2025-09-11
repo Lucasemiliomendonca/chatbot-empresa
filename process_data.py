@@ -2,14 +2,13 @@ import os
 from dotenv import load_dotenv
 from PIL import Image
 import pytesseract
-import time
 
 from langchain_community.document_loaders import (
     PyMuPDFLoader, DirectoryLoader, Docx2txtLoader,
     TextLoader, UnstructuredPowerPointLoader
 )
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.embeddings import SentenceTransformerEmbeddings 
+from langchain_google_genai import GoogleGenerativeAIEmbeddings 
 from langchain_community.vectorstores import Chroma
 from langchain.docstore.document import Document
 
@@ -68,8 +67,8 @@ if all_documents:
     texts = text_splitter.split_documents(all_documents)
     print(f"Documentos divididos em {len(texts)} chunks (com nova estratégia).")
 
-    print("Carregando modelo de embedding local...")
-    embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+    print("Gerando embeddings com a API do Google")
+    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
     print(f"Criando/sobrescrevendo banco de dados local no ChromaDB em '{CHROMA_DB_PATH}'...")
     

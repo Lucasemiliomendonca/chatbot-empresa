@@ -7,7 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
-from langchain_google_genai import ChatGoogleGenerativeAI 
+from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings 
 from langchain_community.embeddings import SentenceTransformerEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain.docstore.document import Document
@@ -38,7 +38,7 @@ class TeachRequest(BaseModel):
 
 
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash-latest", temperature=0) 
-embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 vectorstore = Chroma(persist_directory="chroma_db", embedding_function=embeddings)
 retriever = vectorstore.as_retriever(search_kwargs={'k': 65}) 
 
