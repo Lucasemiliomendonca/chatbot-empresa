@@ -1,0 +1,72 @@
+SEMESTRES    =    MENSALIDADES
+Semestres	Meses
+1 semestre	6 meses
+2 semestres	12 meses
+3 semestres	18 meses
+4 semestres	24 meses
+5 semestres	30 meses
+6 semestres	36 meses
+7 semestres	42 meses
+8 semestres	48 meses
+9 semestres	54 meses
+10 semestres	60 meses
+
+
+SCRIPT MODELO ACELERA TRIPLO:
+😉Hoje, você pagará R$ 49,00 como valor de entrada.  
+Os valores integrais das mensalidades de XX (INTEGRAL) Agosto e Setembro (COM BOLSA)  serão diluídos em pequenas parcelas ao longo do restante do curso.  
+A primeira parcela dos valores diluídos começa a ser cobrada a partir de Outubro, junto com a mensalidade do mês. 
+
+
+
+NÃO SE APLICA O ACELERA:
+Em casos de Pós graduação.
+
+
+Programa Acelera
+ O Programa Acelera facilita o pagamento da primeira mensalidade do seu curso, sem complicação e sem juros! O funcionamento depende do momento da sua matrícula:
+O Acelera é uma forma de te auxiliar no seu ingresso imediato, você paga 49,00 referente a mensalidade de Julho e o restante da mensalidade do valor integral será parcelada ao longo dos meses da sua graduação, a mensalidade de Agosto e Setembro será o valor com bolsa, será parcelada ao longo dos meses da sua graduação.
+Parcelas fixas e sem juros
+Mais flexibilidade para pagamento
+
+OBS: ACELERA abaixo da mensalidade de 300,00 não se aplica pois a aprovação mínima do PRAVALER é 150,00 por parcela.
+
+
+
+O Pravaler é um crédito universitário, que possibilita o pagamento de 52% da mensalidade enquanto você estuda e o valor restante após concluir a graduação;
+Você pagará o curso no dobro do tempo! Por exemplo, se seu curso tem duração de 4 anos, você o paga em 8 anos e as mensalidades não se acumulam.
+Menor juros do Brasil, apenas 0,89%.
+Você precisa apenas de um fiador que não tenha pendências no seu CPF, nem seja fiador de outro aluno. Comprovando o dobro da mensalidade!
+Diferenciais do Pravaler:
+Financiamento estudantil
+Acumula com bolsa
+Contratação o ano inteiro (você pode contratar o Pravaler em qualquer momento do seu curso)
+Não precisa do Enem
+Tudo online
+Documentação simples
+Renda mínima de 2 vezes o valor total da mensalidade.
+
+
+Apresentando o PRAVALER:
+Script – Oferta do Pra valer para aluno com dificuldade financeira:
+1. Abordagem:
+Entendi que o valor da mensalidade ficou acima do que você esperava, certo?
+A gente tem uma opção que pode te ajudar a continuar com o curso sem precisar pagar o valor cheio agora.
+
+2. Oferta do Pravaler:
+Nós trabalhamos com o Pravaler, um financiamento estudantil que reduz o valor da sua mensalidade desde o primeiro mês e organiza o pagamento para você não acumular parcelas.
+
+3. Exemplo com números:
+No seu caso, a mensalidade do curso é de R$ XXXX, mas com o Pravaler ela ficaria em torno de R$ XXX por mês (valor ilustrativo).
+Assim, você consegue começar agora e pagar menos todo mês.
+
+4. Como funciona:
+Você faz uma simulação gratuita e vê o valor exato.
+Preenche seus dados e os do garantidor.
+O garantidor comprova renda mínima de 2x o valor da mensalidade e não precisa ser parente.
+Fazemos a análise de crédito em até 24 horas.
+Depois, você assina o contrato digitalmente e paga o primeiro boleto para confirmar.
+
+5. Fechamento com gatilho de urgência:
+Com essa opção, você já garante a matrícula hoje pagando menos, e ainda consegue organizar o pagamento do restante para depois.
+Quer que eu já faça a simulação para você ver como fica no seu caso?

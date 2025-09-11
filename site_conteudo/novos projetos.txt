@@ -1,0 +1,357 @@
+Calculadora:
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        while (true)
+        {
+            Console.WriteLine("\n--- Calculadora Simples ---");
+            Console.Write("Digite o primeiro número: ");
+            double num1 = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Digite o operador (+ - * /): ");
+            char op = Console.ReadLine()[0];
+
+            Console.Write("Digite o segundo número: ");
+            double num2 = Convert.ToDouble(Console.ReadLine());
+
+            double resultado = 0;
+            bool valido = true;
+
+            switch (op)
+            {
+                case '+': resultado = num1 + num2; break;
+                case '-': resultado = num1 - num2; break;
+                case '*': resultado = num1 * num2; break;
+                case '/':
+                    if (num2 != 0) resultado = num1 / num2;
+                    else { Console.WriteLine("Erro: divisão por zero."); valido = false; }
+                    break;
+                default: Console.WriteLine("Operador inválido."); valido = false; break;
+            }
+
+            if (valido)
+                Console.WriteLine($"Resultado: {resultado}");
+
+            Console.Write("Deseja continuar? (s/n): ");
+            if (Console.ReadLine().ToLower() != "s") break;
+        }
+    }
+}
+
+
+
+
+
+
+Lista de tarefas:
+
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static List<string> tarefas = new List<string>();
+
+    static void Main()
+    {
+        int opcao;
+
+        do
+        {
+            Console.WriteLine("\n--- Lista de Tarefas ---");
+            Console.WriteLine("1. Adicionar tarefa");
+            Console.WriteLine("2. Listar tarefas");
+            Console.WriteLine("3. Remover tarefa");
+            Console.WriteLine("0. Sair");
+
+            opcao = int.Parse(Console.ReadLine());
+
+            switch (opcao)
+            {
+                case 1:
+                    Console.Write("Digite a tarefa: ");
+                    tarefas.Add(Console.ReadLine());
+                    break;
+
+                case 2:
+                    Console.WriteLine("\n--- Suas Tarefas ---");
+                    for (int i = 0; i < tarefas.Count; i++)
+                        Console.WriteLine($"{i + 1}. {tarefas[i]}");
+                    break;
+
+                case 3:
+                    Console.Write("Número da tarefa para remover: ");
+                    int index = int.Parse(Console.ReadLine()) - 1;
+                    if (index >= 0 && index < tarefas.Count)
+                        tarefas.RemoveAt(index);
+                    else
+                        Console.WriteLine("Índice inválido.");
+                    break;
+            }
+
+        } while (opcao != 0);
+    }
+}
+
+
+
+
+Agenda de contatos:
+
+
+using System;
+using System.Collections.Generic;
+
+class Contato
+{
+    public string Nome;
+    public string Telefone;
+    public string Email;
+
+    public override string ToString()
+    {
+        return $"Nome: {Nome}, Telefone: {Telefone}, Email: {Email}";
+    }
+}
+
+class Program
+{
+    static List<Contato> contatos = new List<Contato>();
+
+    static void Main()
+    {
+        int opcao;
+
+        do
+        {
+            Console.WriteLine("\n--- Agenda de Contatos ---");
+            Console.WriteLine("1. Adicionar contato");
+            Console.WriteLine("2. Listar contatos");
+            Console.WriteLine("3. Remover contato");
+            Console.WriteLine("0. Sair");
+            opcao = int.Parse(Console.ReadLine());
+
+            switch (opcao)
+            {
+                case 1:
+                    Contato c = new Contato();
+                    Console.Write("Nome: "); c.Nome = Console.ReadLine();
+                    Console.Write("Telefone: "); c.Telefone = Console.ReadLine();
+                    Console.Write("Email: "); c.Email = Console.ReadLine();
+                    contatos.Add(c);
+                    break;
+
+                case 2:
+                    Console.WriteLine("\n--- Contatos ---");
+                    foreach (var contato in contatos)
+                        Console.WriteLine(contato);
+                    break;
+
+                case 3:
+                    Console.Write("Digite o nome do contato para remover: ");
+                    string nome = Console.ReadLine();
+                    contatos.RemoveAll(x => x.Nome == nome);
+                    break;
+            }
+
+        } while (opcao != 0);
+    }
+}
+
+
+
+
+
+Caixa eletrônico primeiro:
+using System;
+
+class Program
+{
+    static double saldo = 1000.00;
+
+    static void Main()
+    {
+        int opcao;
+
+        do
+        {
+            Console.WriteLine("\n--- Caixa Eletrônico ---");
+            Console.WriteLine("1. Ver saldo");
+            Console.WriteLine("2. Depositar");
+            Console.WriteLine("3. Sacar");
+            Console.WriteLine("0. Sair");
+
+            opcao = int.Parse(Console.ReadLine());
+
+            switch (opcao)
+            {
+                case 1:
+                    Console.WriteLine($"Seu saldo é: R${saldo:F2}");
+                    break;
+
+                case 2:
+                    Console.Write("Valor para depositar: ");
+                    double deposito = double.Parse(Console.ReadLine());
+                    saldo += deposito;
+                    break;
+
+                case 3:
+                    Console.Write("Valor para saque: ");
+                    double saque = double.Parse(Console.ReadLine());
+                    if (saque <= saldo)
+                        saldo -= saque;
+                    else
+                        Console.WriteLine("Saldo insuficiente.");
+                    break;
+            }
+
+        } while (opcao != 0);
+    }
+}
+
+
+
+
+
+Jogo de adivinhação:
+
+
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Random rand = new Random();
+        int numeroSecreto = rand.Next(1, 101);
+        int tentativas = 0;
+        int palpite;
+
+        Console.WriteLine("Adivinhe o número entre 1 e 100:");
+
+        do
+        {
+            tentativas++;
+            Console.Write($"Tentativa {tentativas}: ");
+            palpite = int.Parse(Console.ReadLine());
+
+            if (palpite < numeroSecreto)
+                Console.WriteLine("Muito baixo!");
+            else if (palpite > numeroSecreto)
+                Console.WriteLine("Muito alto!");
+            else
+                Console.WriteLine($"Parabéns! Você acertou em {tentativas} tentativas.");
+        } while (palpite != numeroSecreto);
+    }
+}
+
+
+
+
+Caixa eletrônico evoluído:
+
+
+using System;
+
+class CaixaEletronico
+{
+    static decimal saldo = 1000.00m;
+
+    static void Main(string[] args)
+    {
+        int opcao = 0;
+
+        do
+        {
+            Console.Clear();
+            Console.WriteLine("==== CAIXA ELETRÔNICO ====");
+            Console.WriteLine("1 - Consultar Saldo");
+            Console.WriteLine("2 - Depositar");
+            Console.WriteLine("3 - Sacar");
+            Console.WriteLine("4 - Sair");
+            Console.Write("Escolha uma opção: ");
+
+            bool entradaValida = int.TryParse(Console.ReadLine(), out opcao);
+
+            if (!entradaValida)
+            {
+                Console.WriteLine("Opção inválida. Pressione qualquer tecla para continuar...");
+                Console.ReadKey();
+                continue;
+            }
+
+            switch (opcao)
+            {
+                case 1:
+                    ConsultarSaldo();
+                    break;
+                case 2:
+                    Depositar();
+                    break;
+                case 3:
+                    Sacar();
+                    break;
+                case 4:
+                    Console.WriteLine("Saindo...");
+                    break;
+                default:
+                    Console.WriteLine("Opção inválida.");
+                    break;
+            }
+
+            if (opcao != 4)
+            {
+                Console.WriteLine("Pressione qualquer tecla para voltar ao menu...");
+                Console.ReadKey();
+            }
+
+        } while (opcao != 4);
+    }
+
+    static void ConsultarSaldo()
+    {
+        Console.WriteLine($"\nSaldo atual: R$ {saldo:F2}");
+    }
+
+    static void Depositar()
+    {
+        Console.Write("\nDigite o valor para depósito: R$ ");
+        decimal valor;
+        if (decimal.TryParse(Console.ReadLine(), out valor) && valor > 0)
+        {
+            saldo += valor;
+            Console.WriteLine($"Depósito de R$ {valor:F2} realizado com sucesso.");
+        }
+        else
+        {
+            Console.WriteLine("Valor inválido.");
+        }
+    }
+
+    static void Sacar()
+    {
+        Console.Write("\nDigite o valor para saque: R$ ");
+        decimal valor;
+        if (decimal.TryParse(Console.ReadLine(), out valor) && valor > 0)
+        {
+            if (valor <= saldo)
+            {
+                saldo -= valor;
+                Console.WriteLine($"Saque de R$ {valor:F2} realizado com sucesso.");
+            }
+            else
+            {
+                Console.WriteLine("Saldo insuficiente.");
+            }
+        }
+        else
+        {
+            Console.WriteLine("Valor inválido.");
+        }
+    }
+}

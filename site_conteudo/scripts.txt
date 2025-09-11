@@ -1,0 +1,317 @@
+A importância e aplicabilidade do Script nos atendimentos são:
+Organiza o discurso do vendedor – evitando improvisações ruins ou esquecimentos de pontos importantes.
+Aumenta a conversão – porque segue uma lógica comprovada que desperta interesse, gera confiança e leva o candidato à decisão de compra.
+Garante padrão de qualidade – mantendo a excelência no atendimento, independentemente de quem esteja vendendo.
+Ajuda a contornar objeções – com respostas já preparadas para dúvidas e resistências comuns.
+Economiza tempo – tornando o processo de vendas mais direto e assertivo.
+Facilita o treinamento de novos vendedores – porque eles podem aprender mais rápido com uma estrutura pronta e testada.
+
+
+ABORDAGENS FILAS - INICIAL:
+Receptivo_Wapp_Site
+Olá, como você está? Sou a XXXXX, consultora da FMU, e é um prazer conhecê-lo! A partir de agora, serei sua consultora exclusiva para esclarecer todas as suas dúvidas e ajudá-lo a se tornar um aluno da FMU. Como posso te ajudar?
+
+Captação:
+Olá, [Nome], aqui é o [Seu Nome]. Você já tem um curso em mente ou precisa de ajuda para encontrar a melhor opção para o seu perfil? Posso te explicar sobre as áreas disponíveis, o mercado de trabalho e as vantagens de cada curso. Me conta, como posso te ajudar?
+
+Aprovados_Inscritos_Grad:
+Olá, XXXX tudo bem? Vi aqui que você já possui uma inscrição aprovada com a gente!
+Estamos muito felizes em tê-lo(a) conosco! Agora, é hora de dar o primeiro passo em direção ao seu futuro. Na FMU, você vai viver uma experiência única com educação de excelência, infraestrutura moderna e oportunidades reais para crescer na sua carreira. 🚀 Bora começar?  
+
+Ausentes_Prova:
+Olá, tudo bem? Sou o XXX da FMU. Notamos que você não finalizou sua prova. Estamos aqui para te auxiliar com essa etapa para que você possa prosseguir com sua matrícula. E trazer até novas opções para você! Quero te contar tudo, bora?
+
+
+SCRIPT PROPOSTA COMERCIAL:
+EM CASOS DE INICIAR A INSCRIÇÃO:
+Confirma alguns dados por favor, porque parece que houve um erro no cadastro de e-mail.
+Para realizar a sua inscrição, vou precisar dos seguintes dados:
+ Nome Completo:
+Nome Social
+E-mail
+CPF*
+ Data de Nascimento
+ Celular
+Possui alguma Necessidade Especial?
+ CEP
+ Endereço
+ Número
+ Bairro
+ Cidade
+
+APRESENTAÇÃO DA PROPOSTA:
+ Proposta de Matrícula – FMU - DESCONTO VÁLIDO SOMENTE HOJE
+ Curso: 
+ Duração: 
+ Campus: 
+ Data da proposta: 00/00/2025
+ Valor integral das mensalidades: R$ 
+ Descontos especiais:
+ 1º ano – 00% de desconto
+ Mensalidade com desconto: R$ 
+ Demais mensalidades – 00% de desconto
+ Mensalidade com desconto: R$ 
+ Reajuste anual: conforme o IGPM
+ Primeira mensalidade paga no ato da matrícula
+ Aceitamos Pix ou Cartão
+
+ACELERA FMU – Ingresso imediato com facilidade no pagamento!
+Você garante sua vaga pagando apenas R$ 49,00 na matrícula e começa a estudar agora.
+As mensalidades de julho, agosto e setembro ficam diluídas ao longo da sua graduação.
+ Como funciona:
+Matrícula: R$ 49,00
+Agosto: R$ 0,00 (diluído)
+Setembro: R$ 0,00 (diluído)
+Parcela do Acelera: 00x de R$ 44,99
+A primeira mensalidade regular só em Outubro
+ Parcelas fixas e sem juros
+ Mais flexibilidade para pagamento
+ Início imediato sem pesar no bolso
+ Atenção:
+Esta proposta é válida somente para hoje e exclusivamente neste atendimento.
+
+Finalização/encerramento:
+Seja muito bem-vindo à família FMU!!!   
+Desejo a você todo o sucesso nos seus estudos! Agora você tem acesso a todos os benefícios de ser parte da nossa comunidade acadêmica. Quando seu número de RA for gerado e se surgirem dúvidas ou você precisar de auxílio, fique à vontade para entrar em contato com nossa Central de Atendimento ao Aluno via WhatsApp pelo número (11) 963881790. Eles estão prontos para te orientar da melhor forma possível. 
+No manual, você encontra: https://portal2.fmu.br/estudantes/
+ Como acessar a Área do Aluno
+ Rematrícula e Mensalidades
+ Calendário Acadêmico
+ Grade Horária
+ Carreiras e Estágio
+ Cursos Livres
+ Atividades Extensionistas
+ Acesse agora pelo WorkSpace e fique por dentro de tudo!
+
+
+Estudantes - FMU:
+Sejam bem-vindos Acelere sua carreira Sejam bem-vindos Acelere sua carreira Sejam Bem-Vindos a FMU | FIAMFAAM Level Up: Sua Nova Jornada Acadêmica! Você deu início a sua nova fase, e pode ter certeza...
+
+
+
+VOLTE Adimplente:
+ABORDAGEM INICIAL:
+ Olá, tudo bem (Nome do aluno(a))?
+ Sou ( seu nome ) consultor(a) da FMU.
+ Nome do aluno(a), a FMU sentiu sua falta e quer você de VOLTA, e o melhor é que você VOLTA de onde parou e ainda VOLTA com uma nova FMU Level UP agora mais inovada e com a mesma Tradição.  Boraaa?
+CONFIRMAÇÃO DO CURSO:
+ O curso para o qual quer voltar é XXXXXX na modalidade XXXX, na unidade XXXXXX?
+APRESENTE A PROPOSTA:
+ (Nome do aluno), preparamos uma oferta exclusiva para você voltar a estudar,
+facilitando a sua matricula parcelada em até 12 vezes no cartão.
+Verificar o valor para a reabertura nesse LINK do VOLTE:  FMU - Volte a estudar 
+As demais mensalidades Consulte a Planilha: BASE VOLTE.xlsx
+ REABERTURA DISPONÍVEL!
+Você pode parcelar em até 12x no cartão de crédito, via PIX ou boleto a vista.
+ Valor da Reabertura
+  R$ XXX,XXX
+ Valor bruto do curso: 
+ Descontos Especiais:
+ 00% de bolsa durante 1 ano após a reabertura
+ 00% de bolsa nos semestres seguintes
+ Reajuste de Valores
+ EAD: reajuste anual
+ Presencial/Semipresencial: reajuste semestral
+ Baseado no IGPM (Índice Geral de Preços do Mercado)
+ IMPORTANTE:
+Esta proposta é válida somente hoje, durante este atendimento!
+Aproveite essa oportunidade exclusiva! 😉
+
+EM CASOS DE OBJEÇÃO:
+
+Seguir com o processo de volte e todas as Tabulações.
+Em caso de recusa ir para sondagens e contra argumentação.
+
+
+
+Volte Inadimplente:
+ABORDAGEM INICIAL:
+ Olá, tudo bem (Nome do aluno(a))?
+ Sou ( seu nome ) consultor(a) da FMU.
+ Nome do aluno(a), a FMU sentiu sua falta e quer você de VOLTA, e o melhor é que você VOLTA de onde parou e ainda VOLTA com uma nova FMU Level UP agora mais inovada e com a mesma Tradição.  Boraaa?
+(Confirme através do link:  FMU - Volte a estudar qual o curso e semestre, se ele gostaria de manter ou trocar.)
+Com muito carinho informe que foi identificado uma pendencia financeira, porém como queremos muito que você volte estamos facilitando, tanto a sua matricula quanto a regularização da sua divida.
+OBS: através do link Volte a estudar, verifique em RANGE que ele se encontra e qual a aplicação de desconto em que ele esta.
+Reforce o desconto ou isenção da matricula e o parcelamento da divida em até 12 vezes no cartão.
+CONFIRMAÇÃO DO CURSO:
+ O curso para o qual quer voltar é XXXXXX na modalidade XXXX, na unidade XXXXXX?
+OBS: Consulte a dívida do candidato através do link de Volte: FMU - Volte a estudar
+
+Planilha de Consulta: BASE VOLTE EAD.xlsx
+
+APÓS VERIFICAR AS PENDÊNCIAS FINANCEIRAS DO ALUNO-APRESENTE A PROPOSTA:
+(Nome do aluno), preparamos uma oferta exclusiva para você voltar a estudar com condições imperdíveis!
+Proposta *exclusiva* para *HOJE*:
+OBS: 
+ REABERTURA DISPONÍVEL!
+Você pode parcelar em até 12x no cartão de crédito, via PIX ou no boleto a vista
+ Valor da Reabertura
+Hoje você paga o valor da reabertura.
+ Valor bruto do curso: [inserir valor] 
+Valor da Quitação dos débitos 
+Valor: XXX,XX em até 12 vezes.
+ Descontos Especiais:
+ 00% de bolsa durante 1 ano após a reabertura
+ 00% de bolsa nos semestres seguintes
+ Reajuste de Valores
+ EAD: reajuste anual
+ Presencial/Semipresencial: reajuste semestral
+ Baseado no IGPM (Índice Geral de Preços do Mercado)
+ IMPORTANTE:
+Esta proposta é válida somente hoje, durante este atendimento!
+Aproveite essa oportunidade exclusiva! 
+
+FECHAMENTO:
+Agora vamos seguir com sua matrícula e retomar sua jornada rumo ao sucesso? vou encaminhar o link para fazermos juntos o passo  e concluir a sua matricula.
+Seguir com o processo de volte e todas as Tabulações.
+Em caso de recusa ir para sondagens e contra argumentação.
+
+
+SCRIPT VOLTE ( Reingresso ) 2025:
+ABORDAGEM INICIAL:
+ Olá, tudo bem (Nome do aluno(a))?
+ Meu nome é xxx sou consultor(a) da FMU.
+Nome do aluno(a), a FMU sentiu sua falta e quer você de volta, você vai retornar na FMU Level UP. Uma universidade inovada, mas com a mesma Tradição.
+
+CONFIRMAÇÃO DO CURSO:
+O curso para o qual quer voltar é XXXXXX na modalidade XXXX, na unidade XXXXXX?
+Vou te contar sobre a FMU Level UP.
+Estamos preparando nossos alunos para suas áreas específicas de atuação. Nossos programas educacionais foram cuidadosamente desenvolvidos para proporcionar aos estudantes as habilidades e o conhecimento necessários para se destacarem em suas carreiras escolhidas.
+Além disso, oferecemos uma área dedicada exclusivamente a oportunidades de emprego, facilitando a conexão direta dos nossos alunos com vagas disponíveis no mercado.
+APRESENTAÇÃO DA PROPOSTA:
+(Nome do aluno), preparamos uma oferta exclusiva para você voltar a estudar com condições imperdíveis!
+Proposta *exclusiva* para *HOJE*:
+ Condição 
+Desconto 00%na matrícula Bolsa de 00% no Primeiro Semestre
+Bolsa de 00% até o final do curso
+ *Veja como ficam as mensalidades* 👇🏼
+Facilidade de matrícula com 00%
+ Mensalidades de mês/2025: R$ XXX, XX
+Mensalidades a partir mês com 00% de Bolsa (exceto rematrícula que possui campanhas próprias).
+ O valor integral do curso é de R$XXXXX, mas com a bolsa, seu investimento fica bem mais leve no bolso!
+Lembrando que o valor do curso pode ter reajuste conforme o IGPM.
+
+FECHAMENTO:
+Agora vamos seguir com sua matrícula e retomar sua jornada rumo ao sucesso?
+Seguir com o processo de volte e a Tabulação.
+Em caso de recusa ir para sondagens e contra argumentação.
+
+
+SCRIPT RETORNO OFERTA:
+ABORDAGEM INICIAL:
+ Olá (Nome do candidato), tudo bem? 
+ Meu nome é xxxx e sou consultor(a) de carreiras da FMU. Como você está hoje? 
+ Estamos iniciando as matrículas para este semestre e queremos você aqui na FMU, vou ajudar você a finalizar sua matrícula com uma proposta incrível que pode facilitar seu início as aulas.
+
+APRESENTAÇÃO DA PROPOSTA:
+ (Nome do candidato), tenho uma condição especial que preparamos exclusivamente para você!
+ Descontos especiais: Você garante uma bolsa de xx%, pagando apenas R$ XXXXX por mês! 
+ Facilidade de matrícula: R$ 49,00 na contratação do Acelera* 
+O valor integral do curso é de R$ XXXXX, mas com a bolsa, seu investimento fica bem mais leve no bolso!
+E o melhor: a partir do segundo semestre, a mensalidade ainda continua com xx% de bolsa até o final do curso. 
+
+O Acelera é uma forma de te auxiliar no seu ingresso imediato, você paga 49,00 referente as mensalidades de JULHO e AGOSTO/SETEMBRO e o restante dessas mensalidades serão parceladas ao longo dos meses da sua graduação. 
+
+Parcelas fixas e sem juros 
+Mais flexibilidade para pagamento 
+
+Hoje, você pagará R$ 49,00 como valor de entrada. 
+Os valores integrais das mensalidades de JULHO (INTEGRAL)  e AGOSTO/SETEMBRO (COM BOLSA)  serão diluídos em pequenas parcelas ao longo do restante do curso. 
+A primeira parcela dos valores diluídos começa a ser cobrada a partir de OUTUBRO, junto com a mensalidade do mês. 
+
+Lembrando que o valor do curso pode ter reajuste conforme o IGPM. 
+
+Proposta comercial:
+Curso: xxx
+Certificação: xx
+Duração: x semestres
+Modalidade: xxx
+Campus: xxx
+Turno: xxxx
+Condição para o dia: xx/xx/xxxx
+
+
+
+SCRIPT CONVENIADAS/EMPRESAS PARCEIRAS:
+ABORDAGEM INICIAL:
+Olá, tudo bem? Meu nome é xxxx e sou consultor(a) da FMU. Como você está ?
+A empresa que você trabalha hoje possui uma parceria com a gente, e devido a isso você consegue descontos exclusivos em nossas graduações, especial apenas para empresas parceiras.
+Atualmente você já possui um curso de interesse ?
+Me conta qual o curso de seu interesse?
+APRESENTAÇÃO DA PROPOSTA:
+Fechando comigo HOJE!
+Válido devido à parceria com sua empresa!
+Valor da matrícula:R$ 49(com acelera)
+Valor original das mensalidades:R$ 000,00
+Desconto de 00% no 1º semestre 
+Mensalidades no 1º semestre:R$ 000,00
+Desconto de 00% no restante do curso
+Mensalidades no restante do curso:R$ 000,00
+Reajuste xxxxx conforme o IGPM
+Primeira mensalidade no ato da matrícula – pagamento via Pix ou cartão.
+Hoje, você pagará R$ 49,00 como valor de entrada. 
+Os valores integrais das mensalidades de JULHO (INTEGRAL)  e AGOSTO/SETEMBRO (COM BOLSA)  serão diluídos em pequenas parcelas ao longo do restante do curso. 
+A primeira parcela dos valores diluídos começa a ser cobrada a partir de OUTUBRO, junto com a mensalidade do mês. 
+
+
+
+
+SCRIPT RECEPTIVO RÁDIO:
+
+Olá, pessoal!
+
+Ao recepcionarmos os candidatos do RECEPTIVO, vamos realizar a sondagem por onde ele conheceu a FMU.
+
+O candidato respondendo que foi através das Rádios Disney ou Metropolitana vamos preencher o forms de captação.
+
+Acessem Intranet: Planilhas Úteis: Forms>> Forms Captação Radio FM.
+
+"Olá! Tudo bem? Seja muito bem-vindo(a) à FMU! Para melhorarmos ainda mais nossa comunicação, me conta por onde você ouviu falar da FMU?"
+
+
+
+Script Matricula não Paga:
+Abordagem: "Confirmação e Urgência com Benefícios"
+Saudação e identificação
+"Olá, [Nome do Candidato], tudo bem? Aqui é [Seu Nome], da FMU. 
+Estou entrando em contato porque identificamos que seu processo de matrícula já está bem adiantado, e falta apenas o pagamento do boleto para garantir sua vaga neste segundo semestre."
+Confirme: curso/modalidade/turno/semestre
+Apresente a Proposta Comercial atualizada:
+Curso: 
+Certificação: 
+Duração: 
+Modalidade:
+Campus/Polo:
+Turno: 
+Inicio das aulas:
+No primeiro semestre, você garante uma bolsa de 00%, pagando aproximadamente  R$ 000,00 por mês!
+E o melhor: a partir do segundo semestre, ainda continua com 00% de desconto.
+Condição de hoje: 00/00/2025
+Validação do interesse + reforço de urgência
+"Como estamos nos aproximando do início das aulas e as vagas são limitadas para o seu curso, esse é o momento ideal para finalizar sua matrícula e não perder essa oportunidade. Já imaginou começar a construir seu futuro ainda este ano?"
+Reforço de benefícios + sentimento de conquista
+"A FMU oferece uma estrutura de ensino reconhecida, professores experientes e um modelo acadêmico pensado para a sua realidade. 
+Além disso, você garantirá todos os benefícios exclusivos para ingressantes do segundo semestre, como [mencionar: descontos, facilidades, acesso imediato à plataforma, etc.]."
+Chamada para a ação clara e facilitadora
+"Seu boleto já está disponível e o pagamento é rápido e seguro. Posso te ajudar agora mesmo a localizar o documento para não correr o risco de perder a vaga?"
+Fechamento com incentivo positivo
+"Vamos juntos nessa? Estudar na FMU é dar o primeiro passo com segurança rumo aos seus objetivos. E o melhor momento para isso é agora."
+
+
+
+SCRIPT FMU INDICA:
+Orientações:
+O RH da FMU enviará um formulário para que o funcionário realize a indicação do candidato.
+O candidato indicado receberá um disparo HSM com informações sobre as condições desta oferta.
+Oferta exclusiva para indicações de funcionários da FMU.
+VOUCHER: 
+Olá, [Nome do candidato], tudo bem?
+Me chamo [Seu nome] e sou consultor(a) educacional da FMU. É um prazer falar com você hoje! 
+Queria te contar uma novidade super legal. Você sabia que a Universidade FMU está com um programa de indicações? Se você indicar um amigo para estudar com a gente, além de ajudar ele a conquistar uma formação de qualidade, você também pode ganhar benefícios especiais!
+Imagina só: seu amigo começa a estudar na FMU, que oferece uma estrutura excelente, professores qualificados e uma variedade de cursos, e você ainda recebe uma recompensa por indicar alguém que você conhece e confia.
+Quer saber como funciona?
+É bem simples: basta indicar seu amigo, e assim que ele fizer a matrícula, você já garante seu benefício. É uma oportunidade de ajudar alguém próximo a dar um passo importante na carreira, e ainda ser reconhecido por isso.
+Se quiser, posso te passar mais detalhes ou ajudar a fazer a indicação. Que tal? 
+Hoje, você pagará R$ 49,00 como valor de entrada. 
+Os valores integrais das mensalidades de JULHO (INTEGRAL)  e AGOSTO/SETEMBRO (COM BOLSA)  serão diluídos em pequenas parcelas ao longo do restante do curso. 
+A primeira parcela dos valores diluídos começa a ser cobrada a partir de OUTUBRO, junto com a mensalidade do mês.  

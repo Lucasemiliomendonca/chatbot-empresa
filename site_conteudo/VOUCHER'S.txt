@@ -1,0 +1,50 @@
+O voucher é um código especial que oferece um desconto exclusivo na hora de fazer a matrícula. Geralmente, ele é disponibilizado por campanhas promocionais, parceiros ou eventos específicos, e devemos preencher no Hubspot para a conclusão da matrícula.
+
+ 
+
+🔍Como é feito a aplicação do Voucher? 
+
+O voucher sempre será aplicado em cima do valor líquido do curso. 
+
+ 
+
+Em casos de semestres avançados de cursos presenciais, considerar o valor da Base de Oferta – Veteranos.
+
+ 
+
+EAD, Base de Ofertas – Calouro. Podem existir vouchers em que sua aplicação será em cima do valor bruto; nesses casos, o melhor é verificar com o seu superior.
+
+Em casos de transferência ou reabertura, o pagamento da 1ª mensalidade será considerado com base no valor do site, ou seja, valor de 1º semestre (Calouro) 
+____________________________________________________________________________________________________________________________________________________________ 
+
+      
+
+📊Exemplo da Aplicação - Calouro 
+
+📚Curso: Direito | 1º Semestre | Noturno | Campus Liberdade
+💰 Valor Integral (Base de Ofertas – Calouro): R$ 2.064,34
+💰 Valor com desconto comercial (51%): R$ 998,97
+
+💰 Valor com desconto de 10%: R$ 899,07
+
+________________________________________________________________________________________________________________________________________
+
+ 
+
+
+📊Exemplo da Aplicação - Veterano | Semestre Avançado 
+
+📚Curso: Direito | 4º Semestre | Noturno | Campus Liberdade
+💰 Valor Integral (Base de Ofertas – Veterano): R$ 2.029,00
+💰 Valor com desconto comercial (51%): R$ 994,21
+
+💰 Valor com desconto de 10%: R$ 894,78
+ 
+
+⚠️Obs.: Não é um acréscimo de bolsa, mas sim um concessão de desconto que é  aplicável ao valor líquido, ou seja, valor com bolsa. 
+
+
+FAQ
+
+Em casos de erro ou divergências de valores devemos acionar a Supervisão:
+

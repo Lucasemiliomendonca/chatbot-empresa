@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Corporativo</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+        if (!sessionStorage.getItem('userRole')) {
+            window.location.href = 'login.html';
+        }
+    </script>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h2>Chatbot Corporativo</h2>
+            <span>Conectado</span>
+            <button id="logout-btn">Sair</button>
+        </div>
+        <div class="chat-box" id="chat-box">
+            <div class="chat-message bot">
+                <p>Olá! Como posso ajudar hoje?</p>
+            </div>
+        </div>
+        <div class="chat-input">
+            <input type="text" id="user-input" placeholder="Digite sua pergunta...">
+            <button id="send-btn">Enviar</button>
+        </div>
+        <div class="feedback-container" id="feedback-container" style="display: none;">
+            <p>A resposta não foi útil? Ensine o bot!</p>
+            <textarea id="correct-answer-input" placeholder="Digite a resposta correta aqui..."></textarea>
+            <button id="save-answer-btn">Salvar Aprendizado</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

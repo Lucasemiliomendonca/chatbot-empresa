@@ -1,0 +1,94 @@
+ESCOLA DE DIREITO - LEVEL UP 	E-MAILS:
+Direito 	caue.lima@fmu.br
+Mediação	daniel.silva@fmu.br
+Segurança Privada	daniel.silva@fmu.br
+Segurança Pública	daniel.silva@fmu.br
+Serviços Judiciais	daniel.silva@fmu.br
+Serviços Registrais e Notariais	daniel.silva@fmu.br
+Serviços Penais	daniel.silva@fmu.br
+ESCOLA DE ENGENHARIA - LEVEL UP 	E-MAILS:
+Engenharia Ambiental e Sanitária	suely.gama@fmu.br
+Engenharia Civil	kleber.ribeiro@fmu.br
+Engenharia da Computação	rene.teixeira@fmu.br
+Engenharia de Controle e Automação	rene.teixeira@fmu.br
+Engenharia de Produção	suely.gama@fmu.br
+Engenharia Elétrica	rene.teixeira@fmu.br
+Engenharia Mecânica	kleber.ribeiro@fmu.br
+Engenharia Química	suely.gama@fmu.br
+Engenharia de Petróleo	suely.gama@fmu.br
+Engenharia Biomédica	rene.teixeira@fmu.br
+Estatística	talita.coelho@fmu.br
+Arquitetura e Urbanismo	kleber.ribeiro@fmu.br
+ESCOLA DE BUSINESS - LEVEL UP 	E-MAILS:
+Recursos Humanos 	daniella.orsi@fmu.br
+Comércio do Exterior	sandra.monici@fmu.br
+Gastronomia	sandra.monici@fmu.br
+Gestão Comercial	daniella.orsi@fmu.br
+Gestão da Qualidade	daniella.orsi@fmu.br
+Gestão Financeira	armando.abreu@fmu.br
+Gestão Hospitalar	allan.pscheidt@fmu.br
+Logística	sandra.monici@fmu.br
+Marketing	tereza.imperiale@fiamfaam.br
+Processos Gerenciais	sandra.monici@fmu.br
+ESCOLA DE EDUCAÇÃO - LEVEL UP	E-MAILS:
+Artes Visuais - Bacharelado	isabella.goulart@fmu.br
+Artes Visuais - Licenciatura	isabella.goulart@fmu.br
+História	vanessa.silva@fmu.br
+Pedagogia	vanessa.silva@fmu.br
+Ciências Sociais	vanessa.silva@fmu.br
+Letras - Inglês	vanessa.silva@fmu.br
+Letras - Português	vanessa.silva@fmu.br
+Geografia	vanessa.silva@fmu.br
+Matemática (Bacharelado)	suely.gama@fmu.br
+Matemática (Licenciatura)	suely.gama@fmu.br
+ESCOLA DE SAÚDE - LEVEL UP 	E-MAILS:
+Estética e Cosmética	marcia.moreno@fmu.br
+Radiologia 	allan.pscheidt@fmu.br
+Biomedicina	charlotte.saenz@fmu.br
+Ciências Biológicas	allan.pscheidt@fmu.br
+Educação Física - Bacharelado	thiago.ferreira@fmu.br
+Educação Física - Licenciatura	thiago.ferreira@fmu.br
+Enfermagem	sergio.lopes@fmu.br
+Farmácia	sheila.rodrigues@fmu.br
+Fisioterapia	juliana.leandro@fmu.br
+Fonoaudiologia	juliana.leandro@fmu.br
+Musicoterapia	juliana.leandro@fmu.br
+Medicina Veterinária	vanessa.souza@fmu.br
+Nutrição	cristiane.zacari@fmu.br
+Odontologia	samantha.cavalcanti@fmu.br
+Psicologia	barbara.niero@fmu.br
+Serviço Social	antonia.valdivia@fmu.br
+ESCOLA TECH - LEVEL UP	E-MAILS:
+Análise e Desenvolvimento de Sistemas	angela.ninomia@fmu.br
+Tecnologia da Informação	rita.carolino@fmu.br
+Tecnologia em Inteligência Artificial	angela.ninomia@fmu.br
+Big Data e Inteligência Analítica	rita.carolino@fmu.br
+Blockchain e Criptografia Digital	rita.carolino@fmu.br
+Internet das Coisas e Computação em Nuvem	rene.teixeira@fmu.br
+Jogos Digitais	angela.ninomia@fmu.br
+Redes de Computadores	rita.carolino@fmu.br
+Segurança da Informação	rita.carolino@fmu.br
+Sistemas para Internet	rita.carolino@fmu.br
+Ciência da Computação	rita.carolino@fmu.br
+Sistemas de Informação	angela.ninomia@fmu.br
+Ciência dos Dados	talita.coelho@fmu.br
+ESCOLA INDÚSTRIA CRIATIVA - LEVEL UP	E-MAILS:
+Design Gráfico	wiliam.pianco@fmu.br
+Produção Audiovisual	isabella.goulart@fmu.br
+Design de Produto	wiliam.pianco@fmu.br
+Marketing Digital	tereza.imperiale@fiamfaam.br
+Design de Interiores	kleber.ribeiro@fmu.br
+Fotografia	isabella.goulart@fmu.br
+Produção Cultural	isabella.goulart@fmu.br
+Produção Multimídia	isabella.goulart@fmu.br
+Produção Publicitária	tereza.imperiale@fiamfaam.br
+Design	wiliam.pianco@fmu.br
+Moda	wiliam.pianco@fmu.br
+Música	sergio.m.junior@fiamfaam.br
+Jornalismo	wiliam.pianco@fmu.br
+Publicidade e Propaganda	tereza.imperiale@fiamfaam.br
+Comunicação Social - Rádio e TV	isabella.goulart@fmu.br
+Relações Públicas	wiliam.pianco@fmu.br
+Design de Animação	wiliam.pianco@fmu.br
+Design de Games	isabella.goulart@fmu.br
+Comunicação Institucional	wiliam.pianco@fmu.br

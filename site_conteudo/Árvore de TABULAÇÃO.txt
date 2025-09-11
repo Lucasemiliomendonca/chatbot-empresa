@@ -1,0 +1,5 @@
+A árvore de tabulação é uma ferramenta que organiza e apresenta os dados dos atendimentos de forma estruturada. 
+
+O principal objetivo dela é garantir que todos os registros sejam entregues com precisão, ou seja, que as informações sejam corretas e completas. Isso é fundamental para que possamos entender melhor o que aconteceu em cada atendimento.
+
+Além disso, ao otimizar a clareza dos dados, a árvore de tabulação facilita a análise das informações, permitindo que a equipe identifique padrões e tendências. Com esses insights, podemos tomar decisões mais informadas sobre quais leads (potenciais candidatos) devemos priorizar e trabalhar no futuro.

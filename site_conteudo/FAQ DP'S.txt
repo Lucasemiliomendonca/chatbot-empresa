@@ -1,0 +1,107 @@
+DP'S ( Dependência )
+
+ 
+
+É a reprovação em uma disciplina cursada em semestres anteriores.
+
+ 
+
+A Secretaria Geral decidiu implementar 9 adaptações por semestre para os cursos presenciais e semipresenciais.
+
+Em relação ao EAD, ainda não está definido se o número de adaptações será 9. 
+
+ 
+
+Antes de repassarmos os valores pesquisamos no Lyceum com o RA do aluno.
+
+Passo a Passo>>RA>>buscar>>histórico>>resumo acadêmico>>disciplinas pendentes>>disciplinas pendentes de grupo>>atividades complementares.1º Verifique Curso/Modalidade/Turno e Campus/Polo
+2º Verifique se Possui Débitos (EAD - Lycel) e (Presencial - Link de mensalidades) 
+3º Verifique o último semestre cursado (Lycel)
+4º Verifique no HUB se está APTO ou NÂO
+5º Verifique no HUB se está na BLOCk ( se consta débito )
+6º Verifique se possui turma no curso e semestre que parou
+7º Prosseguir na ficha de REABERTURA para confirmação de dados
+
+8º Confirmar valores - Presencial  (Planilha de semestre avançado) - EAD (Site) 
+9º Enviar o RA no grupo CSC para APROVAÇÃO
+
+10º Concluir a Reabertura 
+
+ 
+
+ 
+
+DP ( Dependência )
+
+Valor atualizado da DP no presencial/semi
+
+Valor atualizado da DP no EAD
+
+Valor atualizado da DP em atividades complementares (EAD)
+
+ 
+
+DP  EAD Consulte o Edital     
+
+ 
+
+DP Presencial Consulte o Edital
+----------------------------
+ 
+
+ADAP ( Adaptação )
+
+ 
+
+As ADAPS durante os períodos letivos regulares não são cobradas.
+
+ 
+
+Caso o aluno vire DPU as adapts viram DPs e tem cobrança do mesmo valor de uma DP, da modalidade cursada.
+
+ 
+
+ADAP EAD Consulte o Edital     
+
+ 
+
+ADAP Presencial Consulte o Edital
+----------------------
+
+DPU:
+
+DPU* ( Quando o aluno trancou / formou, porém ele ficou com mais de 4 DPs ou devendo horas complementares )
+
+ 
+
+Dependência de Último Ano*
+
+ 
+
+Seguimos na ficha de REABERTURA adicionamos o RA.
+
+ 
+
+A cobrança será feita uma taxa de reabertura, o aluno efetiva o pagamento, ele entra no semestre e segue pagando as mensalidades.
+
+ 
+
+DPU* Especifica - menos de 5 DPs
+
+Ex: o aluno está devendo apenas Dp's
+
+Seguimos na ficha de REABERTURA adicionamos o RA.
+
+ 
+
+A cobrança será feita uma taxa de reabertura, o aluno efetiva o pagamento, ele entra no semestre e segue pagando APENAS AS DP'S.
+
+ 
+
+O que é um aluno DPU?
+
+DPU é a nomenclatura dada ao aluno que possui apenas uma ou mais disciplinas em dependência (DP) para concluir o curso.
+
+Nesses casos, o aluno pagará somente o valor da reabertura de matrícula e, posteriormente, o valor correspondente às disciplinas pendentes.
+
+Observação: as disciplinas EAD do curso presencial são cobradas, no valor das Disciplinas do presencial.

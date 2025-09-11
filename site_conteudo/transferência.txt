@@ -1,0 +1,108 @@
+O que é uma Transferência Externa? 
+
+Transferência externa é quando um estudante que já está matriculado em uma instituição de ensino superior decide mudar para outra, levando consigo o seu histórico acadêmico, as disciplinas cursadas e aproveitadas, sem precisar começar o curso do zero.
+
+Quais são os critérios para fazer a análise, para saber o semestre que o aluno vai ingressar?
+
+1. Entregar a documentação necessária (Histórico Escolar e Ementa da outra IES)
+
+2. Para fazer uma condicional é necessário contabilizar os semestres cursados e aprovados pelo candidato na outra IES.
+
+Observação: No histórico da outra IES possui os semestres 2022/1, 2022/2 e 2023/1 cursados e com aprovação, contabilizando  3 semestres, então estudaria o 4º semestre aqui na FMU, a depender de oferta do curso escolhido. 
+
+Como é feito o processo de análise curricular e quais são os 5 tipos existentes?
+
+1. Análise de Transferência Externa (mesmo curso e IES diferente):
+
+Após o pagamento da matrícula, processo entra na fila da Secretaria para realizar a análise, nossos analistas verificam as disciplinas equivalentes na outra IES; fazem um documento; enviam para aluno através do HUB; lançam as dispensas no LY.
+
+2. Análise de 2º graduação:
+
+Após o pagamento da matrícula, processo entra na fila da Secretaria para realizar a análise, nossos analistas verificam as disciplinas equivalentes na outra graduação; fazem um documento; enviam para aluno através do HUB; lançam as dispensas no LY;
+ 
+3. Dispensa de Disciplina (Portal):
+
+Requerimento destinado para alunos veteranos que ingressaram de outras formas (ex. vestibular), porém já tem outro HE de outra IES ou outro curso e deseja realizar uma análise para dispensa de disciplinas (É um serviço pago); 
+
+4. Reanálise de Dispensa de Disciplina:
+
+Requerimento destinado para alunos que não concordam com a análise realizada anteriormente seja no ingresso ou no serviço de dispensa (serviço gratuito); 
+ 
+5. Volte/Reabertura:
+
+ É realizada uma análise para adaptação de grade, se necessário , e é feita a equivalência das disciplinas entre os currículos. 
+
+Até que semestre o aluno pode ingressar por transferência no curso?
+
+Não serão admitidos ingressantes via TRANSFERÊNCIA EXTERNA para os dois semestres finais de todos os cursos de Bacharelado e Licenciatura; nem para o último semestre dos Cursos Superiores de Tecnologia.
+
+Observação: Se o curso possui duração de 10 semestres e o estudante tiver cursado 10 na outra IES, ele entrará aqui no 8º semestre.
+
+Quais são os tipos de transferências internas?
+
+CURSO OU HABILITAÇÃO;
+
+CAMPUS (Para Cursos Presenciais);
+
+MODALIDADE;
+
+TURNO (Para Cursos Presenciais);
+
+POLO (Para Cursos EAD).
+
+Observação: Serviços disponíveis no portal, válido somente para alunos Ativos e matriculados
+
+O que é Carrossel?
+Carrossel é uma condição de oferta seja devido a estratégia comercial ou a não formação de turma.
+É realizado pelo Planejamento Acadêmico e é definido através de um estudo de disciplinas/séries e ofertas. 
+Para o EAD o carrossel já é designado do inicio ao fim através dos grupos, já para o presencial é feito um estudo de acordo com as formações de turma/quantidade de alunos e pagamento de professores.
+
+Posso fazer transferência se estou cursando um curso presencial e quero mudar para EAD (ou vice-versa)?
+Sim, porém deve ser feita a rematrícula na modalidade atual e realizar o pedido de transferência através do portal quando já estiver com a matrícula regularizada. Não fazemos a transferência de alunos de Reabertura, por exemplo, sem a matrícula já regularizada
+
+
+Pode realizar transferência de um curso de licenciatura para bacharelado?
+Não, transferências são aceitas somente na mesma habilitação devido as equivalências.
+Observações: Estamos validando mais informações com o setor acadêmico. 
+
+Como funciona as Adaps?
+ADAPs estão condicionadas a alunos que passaram por algum tipo de análise curricular, seja de transferência ou adaptação de grade curricular, e possuem disciplinas não cursadas constantes em períodos letivos anteriores ao que estão matriculados. 
+
+Quando cursar? Deve cursar no decorrer do curso, solicitando a matrícula através do portal.
+
+Como funciona a Transferência internacional? 
+O aluno deve ter cursado pelo menos um semestre (ou o equivalente) na instituição de origem.
+Documentação Necessária:
+1º Histórico escolar da IES de origem com carga horária e notas;
+2º Conteúdos programáticos das disciplinas cursadas (pra análise de equivalência);
+
+3º Documento de identificação (passaporte/ RNE);
+
+4º Tradução juramentada dos documentos, se estiverem em outro idioma.
+
+
+Script – Modelo Carrossel:
+O carrossel é uma forma de oferta adotada por decisão estratégica da FMU - Level UP com o objetivo de trazer mais eficiência ao processo.
+De forma simples, você ingressa no X semestre do seu curso, mas começa cursando as disciplinas do Y semestre. Isso acontece porque as disciplinas são organizadas de forma que não prejudicam sua formação.
+Importante:
+Você segue normalmente sua jornada acadêmica, dentro do seu semestre, e conclui o curso no tempo certo, sem nenhuma perda de conteúdo ou qualidade.
+
+
+Como é feito o cálculo do Acelera em casos de transferência? 
+Em casos elegíveis, ou seja, quando o aluno não está nos últimos 3 semestres da graduação (para Bacharelado e Licenciatura) ou nos últimos 2 semestres (para Tecnólogo), o Acelera sempre é calculado em cima do VALOR BRUTO do SITE as demais  seguimos planilha de acordo com a condicional do semestre avançado (Base Central de Ofertas - Veteranos).
+"O VALOR BRUTO que aparece no site será referência para o PRIMEIRO PAGAMENTO. 
+Depois, seguimos as próximas mensalidades aplicando sobre o valor da planilha de SEMESTRE AVANÇADO.
+
+ Exemplo de Cálculo – Acelera | Transferência:
+ Curso: Direito | 4º Semestre | Noturno | Campus Liberdade
+ Valor Integral (Base de Ofertas – Veteranos): R$ 2.029,00
+ Obs.: O valor de semestre avançado pode ser maior ou menor que o valor atual, pois depende das condições aplicadas no 1º intake do semestre avançado em que o aluno ingressou (neste caso, 2024.1).
+
+ Cálculo do Acelera:
+Valor Integral: R$ 2.029,00
+Valor do Acelera: R$ 49,00 (taxa única)
+Valor com Acelera aplicado: R$ 1.980,00
+ Prazo até o fim do curso:
+35 meses
+ Valor das parcelas:
+Aproximadamente R$ 56,57 por mês
