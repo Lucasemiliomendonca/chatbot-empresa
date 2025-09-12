@@ -1,6 +1,12 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Referências aos elementos do DOM
+    // Esta verificação previne que o script quebre na página de login.
+    // O código do chat só roda se encontrar o elemento 'chat-box'.
     const chatBox = document.getElementById('chat-box');
+    if (!chatBox) {
+        return; 
+    }
+
+    // --- ELEMENTOS DO DOM (PÁGINA DO CHAT) ---
     const userInput = document.getElementById('user-input');
     const sendBtn = document.getElementById('send-btn');
     const logoutBtn = document.getElementById('logout-btn');
@@ -13,26 +19,51 @@ document.addEventListener('DOMContentLoaded', () => {
     const headerButtons = document.querySelector('.header-buttons');
 
     const userRole = sessionStorage.getItem('userRole');
-    let lastQuestion = ''; 
+    let lastQuestion = '';
 
     // --- LÓGICA PARA ADMIN ---
+    // Cria e adiciona o botão "Adicionar Conhecimento" se o usuário for admin
     if (userRole === 'admin') {
         const addContentBtn = document.createElement('button');
         addContentBtn.id = 'add-content-btn';
         addContentBtn.textContent = 'Adicionar Conhecimento';
-        headerButtons.insertBefore(addContentBtn, logoutBtn); // Adiciona o botão antes do de logout
+        // Insere o novo botão antes do botão de logout
+        headerButtons.insertBefore(addContentBtn, logoutBtn); 
 
         addContentBtn.addEventListener('click', () => {
             feedbackTitle.textContent = 'Adicionar Novo Conhecimento';
-            feedbackQuestionInput.value = ''; // Limpa o campo do tópico
+            feedbackQuestionInput.value = ''; // Limpa o campo para nova entrada
+            correctAnswerInput.value = '';
             showTeachForm();
         });
     }
 
-    // --- FUNÇÕES DO CHAT ---
-    function addMessage(text, sender) { /* ... (sem alterações) ... */ }
-    function showLoadingIndicator() { /* ... (sem alterações) ... */ }
-    function hideLoadingIndicator() { /* ... (sem alterações) ... */ }
+    // --- FUNÇÕES AUXILIARES DO CHAT ---
+    function addMessage(text, sender) {
+        const messageElement = document.createElement('div');
+        messageElement.classList.add('chat-message', sender);
+        const paragraph = document.createElement('p');
+        paragraph.innerHTML = text.replace(/\n/g, '<br>');
+        messageElement.appendChild(paragraph);
+        chatBox.appendChild(messageElement);
+        chatBox.scrollTop = chatBox.scrollHeight;
+    }
+
+    function showLoadingIndicator() {
+        const loadingElement = document.createElement('div');
+        loadingElement.classList.add('chat-message', 'loading');
+        loadingElement.id = 'loading-indicator';
+        loadingElement.innerHTML = '<p>...</p>';
+        chatBox.appendChild(loadingElement);
+        chatBox.scrollTop = chatBox.scrollHeight;
+    }
+
+    function hideLoadingIndicator() {
+        const loadingElement = document.getElementById('loading-indicator');
+        if (loadingElement) {
+            chatBox.removeChild(loadingElement);
+        }
+    }
 
     function showTeachForm() {
         feedbackContainer.style.display = 'flex';
@@ -44,6 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
         feedbackQuestionInput.value = '';
     }
 
+    // --- FUNÇÕES PRINCIPAIS ---
     async function saveNewAnswer() {
         const questionToSave = feedbackQuestionInput.value.trim();
         const correctAnswer = correctAnswerInput.value.trim();
@@ -101,17 +133,18 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             const data = await response.json();
-            const formattedAnswer = data.answer.replace(/\n/g, '<br>');
-            addMessage(formattedAnswer, 'bot');
+            addMessage(data.answer, 'bot');
 
             const lowerCaseAnswer = data.answer.toLowerCase();
             if ((lowerCaseAnswer.includes("não sei") || lowerCaseAnswer.includes("não encontrei")) && userRole === 'admin') {
                 feedbackTitle.textContent = 'A resposta não foi útil? Ensine o bot!';
-                feedbackQuestionInput.value = lastQuestion; // Preenche com a última pergunta
+                feedbackQuestionInput.value = lastQuestion;
                 showTeachForm();
             }
         } catch (error) {
-            // ... (sem alterações)
+            hideLoadingIndicator();
+            console.error('Erro:', error);
+            addMessage('Não foi possível conectar ao chatbot. Verifique se o servidor está rodando.', 'bot');
         }
     }
     
@@ -120,7 +153,7 @@ document.addEventListener('DOMContentLoaded', () => {
         window.location.href = 'login.html';
     }
 
-    // --- EVENT LISTENERS ---
+    // --- EVENT LISTENERS (PÁGINA DO CHAT) ---
     sendBtn.addEventListener('click', sendMessage);
     userInput.addEventListener('keypress', (event) => {
         if (event.key === 'Enter') sendMessage();
@@ -129,17 +162,3 @@ document.addEventListener('DOMContentLoaded', () => {
     logoutBtn.addEventListener('click', handleLogout);
     cancelFeedbackBtn.addEventListener('click', hideTeachForm);
 });
-
-// Cole aqui as funções addMessage, showLoadingIndicator, e hideLoadingIndicator que já tínhamos
-function addMessage(text, sender) {
-    const chatBox = document.getElementById('chat-box');
-    const messageElement = document.createElement('div');
-    messageElement.classList.add('chat-message', sender);
-    const paragraph = document.createElement('p');
-    paragraph.innerHTML = text;
-    messageElement.appendChild(paragraph);
-    chatBox.appendChild(messageElement);
-    chatBox.scrollTop = chatBox.scrollHeight;
-}
-function showLoadingIndicator() { /* ... */ }
-function hideLoadingIndicator() { /* ... */ }
