@@ -15,8 +15,9 @@
     <div class="chat-container">
         <div class="chat-header">
             <h2>Chatbot Corporativo</h2>
-            <span>Conectado</span>
-            <button id="logout-btn">Sair</button>
+            <div class="header-buttons">
+                <button id="logout-btn">Sair</button>
+            </div>
         </div>
         <div class="chat-box" id="chat-box">
             <div class="chat-message bot">
@@ -28,9 +29,11 @@
             <button id="send-btn">Enviar</button>
         </div>
         <div class="feedback-container" id="feedback-container" style="display: none;">
-            <p>A resposta não foi útil? Ensine o bot!</p>
-            <textarea id="correct-answer-input" placeholder="Digite a resposta correta aqui..."></textarea>
-            <button id="save-answer-btn">Salvar Aprendizado</button>
+            <p id="feedback-title">Adicionar Novo Conhecimento</p>
+            <input type="text" id="feedback-question-input" placeholder="Tópico ou pergunta chave">
+            <textarea id="correct-answer-input" placeholder="Digite o conteúdo ou resposta aqui..."></textarea>
+            <button id="save-answer-btn">Salvar</button>
+            <button id="cancel-feedback-btn">Cancelar</button>
         </div>
     </div>
     <script src="script.js"></script>

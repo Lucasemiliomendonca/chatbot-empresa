@@ -98,14 +98,15 @@ body {
 }
 
 .chat-header {
-    position: relative; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
 }
 
 #logout-btn {
-    position: absolute;
-    top: 50%;
-    right: 20px;
-    transform: translateY(-50%);
+    position: static;
+    transform: none;
     background-color: #e1e1e1;
     color: #333;
     border: none;
@@ -130,4 +131,79 @@ body {
     font-weight: bold;
     transition: background-color 0.3s;
     white-space: nowrap;
+}
+
+.header-buttons {
+    display: flex;
+    gap: 10px;
+}
+#add-content-btn {
+    background-color: #28a745; /* Cor verde */
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#logout-btn:hover {
+    background-color: #ccc;
+}
+
+#add-content-btn:hover {
+    background-color: #218838;
+}
+
+/* Adicione estilos para o formulário de feedback */
+.feedback-container {
+    padding: 15px;
+    background-color: #f0f2f5;
+    border-top: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.feedback-container p {
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+}
+
+.feedback-container input,
+.feedback-container textarea {
+    width: 95%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.feedback-container textarea {
+    resize: vertical;
+    min-height: 80px;
+}
+
+.feedback-container button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+#save-answer-btn {
+    background-color: #0078D4;
+}
+#save-answer-btn:hover {
+    background-color: #005a9e;
+}
+
+#cancel-feedback-btn {
+    background-color: #6c757d;
+}
+#cancel-feedback-btn:hover {
+    background-color: #5a6268;
 }
