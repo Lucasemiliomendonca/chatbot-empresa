@@ -11,6 +11,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_google_genai import GoogleGenerativeAIEmbeddings 
 from langchain_community.vectorstores import Chroma
 from langchain.docstore.document import Document
+import time 
 
 
 load_dotenv()
@@ -72,14 +73,17 @@ if all_documents:
 
     print(f"Criando/sobrescrevendo banco de dados local no ChromaDB em '{CHROMA_DB_PATH}'...")
     
-    vectorstore = Chroma.from_documents(
-        documents=texts,
-        embedding=embeddings,
-        persist_directory=CHROMA_DB_PATH
-    )
+    batch_size = 100 
+    total_batches = (len(texts) + batch_size - 1) // batch_size
+    for i in range(0, len(texts), batch_size):
+        batch = texts[i:i + batch_size]
+        print(f"Processando lote {i//batch_size + 1}/{total_batches}...")
+        if i == 0:
+            vectorstore = Chroma.from_documents(documents=batch, embedding=embeddings, persist_directory=CHROMA_DB_PATH)
+        else:
+            vectorstore.add_documents(batch)
+        if total_batches > 1 and (i//batch_size + 1) < total_batches:
+            print("Lote processado. Aguardando 61 segundos...")
+            time.sleep(61)
     
-    print("-" * 50)
-    print("Processo concluído! Sua base de conhecimento foi recriada com a nova estratégia.")
-    print("-" * 50)
-else:
-    print("Nenhum documento foi carregado.")
+    print("Processo concluído!")
