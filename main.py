@@ -14,22 +14,14 @@ from langchain.docstore.document import Document
 
 load_dotenv()
 app = FastAPI()
-netlify_origin_regex = r"https://.*--superlative-rabanadas-c0ea6f\.netlify\.app"
-
-local_origins = [
-    "http://localhost",
-    "http://localhost:8080",
-    "http://localhost:5173",
-]
-
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=local_origins,          
-    allow_origin_regex=netlify_origin_regex,
+    allow_origins=["*"], 
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 USERS = {
     "empresa": {"password": "123", "role": "user"},
     "admin": {"password": "admin123", "role": "admin"}
