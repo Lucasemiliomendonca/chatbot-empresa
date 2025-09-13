@@ -1,12 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Esta verificação previne que o script quebre na página de login.
-    // O código do chat só roda se encontrar o elemento 'chat-box'.
+
     const chatBox = document.getElementById('chat-box');
     if (!chatBox) {
         return; 
     }
 
-    // --- ELEMENTOS DO DOM (PÁGINA DO CHAT) ---
+   
     const userInput = document.getElementById('user-input');
     const sendBtn = document.getElementById('send-btn');
     const logoutBtn = document.getElementById('logout-btn');
@@ -21,8 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const userRole = sessionStorage.getItem('userRole');
     let lastQuestion = '';
 
-    // --- LÓGICA PARA ADMIN ---
-    // Cria e adiciona o botão "Adicionar Conhecimento" se o usuário for admin
+   
     if (userRole === 'admin') {
         const addContentBtn = document.createElement('button');
         addContentBtn.id = 'add-content-btn';
@@ -32,13 +30,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
         addContentBtn.addEventListener('click', () => {
             feedbackTitle.textContent = 'Adicionar Novo Conhecimento';
-            feedbackQuestionInput.value = ''; // Limpa o campo para nova entrada
+            feedbackQuestionInput.value = ''; 
             correctAnswerInput.value = '';
             showTeachForm();
         });
     }
 
-    // --- FUNÇÕES AUXILIARES DO CHAT ---
+    
     function addMessage(text, sender) {
         const messageElement = document.createElement('div');
         messageElement.classList.add('chat-message', sender);
@@ -75,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
         feedbackQuestionInput.value = '';
     }
 
-    // --- FUNÇÕES PRINCIPAIS ---
+    
     async function saveNewAnswer() {
         const questionToSave = feedbackQuestionInput.value.trim();
         const correctAnswer = correctAnswerInput.value.trim();
@@ -86,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         try {
-            const response = await fetch('http://127.0.0.1:8000/ensinar', {
+            const response = await fetch('https://chatbot-empresa-production.up.railway.app/ensinar', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
@@ -119,7 +117,7 @@ document.addEventListener('DOMContentLoaded', () => {
         showLoadingIndicator();
 
         try {
-            const response = await fetch('http://127.0.0.1:8000/perguntar', {
+            const response = await fetch('https://chatbot-empresa-production.up.railway.app/perguntar', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ question: question }),
@@ -153,7 +151,7 @@ document.addEventListener('DOMContentLoaded', () => {
         window.location.href = 'login.html';
     }
 
-    // --- EVENT LISTENERS (PÁGINA DO CHAT) ---
+    
     sendBtn.addEventListener('click', sendMessage);
     userInput.addEventListener('keypress', (event) => {
         if (event.key === 'Enter') sendMessage();
